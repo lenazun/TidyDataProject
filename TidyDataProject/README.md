@@ -1,13 +1,15 @@
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
+
+#Human Activity Recognition Using Smartphones Dataset
 
 Summary by Lena Zuniga as part as the Cleaning Data course 
 
-==================================================================
 
-Original data source:
+
+#Original data source:
+
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
-==================================================================
+
+#Processing
 
 This data set is a clean and summarized version of the experiment carried out with a group of 30 volunteers, performing different activities when wearing a smartphone at the waist.
 
@@ -29,7 +31,6 @@ The script run_analysis.R  performs the following actions:
 
 * Generates a .txt file with the resulting summarized dataset
 
-==================================================================
-
+END
 
 
