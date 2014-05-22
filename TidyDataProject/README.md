@@ -1,5 +1,5 @@
 
-#Human Activity Recognition Using Smartphones Dataset
+##Human Activity Recognition Using Smartphones Dataset
 
 Summary by Lena Zuniga as part as the Cleaning Data course 
 
